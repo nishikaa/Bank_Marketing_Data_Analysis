@@ -1,1 +1,5 @@
-# Project2
+## This project was done as the class end project of UC Berkeley MIDS w200- Introduction to Data Science Programming class
+
+# Bank Marketing Data Analysis
+
+A time deposit or term deposit is a deposit in a financial institution with a specific maturity date. In other words, subscribers lock away an amount of money for an agreed length of time during which they may not access the money until the term is up. The infamous Wells Fargo cross-selling scandal in 2019 involved opening millions of savings and checking accounts on behalf of their clients without consent. While its course of actions is abysmal, many banks engage in marketing their financial products, especially encouraging clients to deposit large sums of money into term deposits. With data science capabilities growing stronger, marketing analytics teams at financial institutions are now able to better predict the likelihood of a client subscribing to a term deposit. Various attributes ranging from age, demographics, income, etc. of different borrowers may be indicators of whether they subscribe.
